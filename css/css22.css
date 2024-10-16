@@ -1,0 +1,255 @@
+.firstpage {
+    background-color: rgb(255, 255, 255);
+}
+.header {
+    display: flex;
+    flex-direction: row;
+}
+.logo {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.imglogo {
+    width: 50px;
+    height: 74px;
+
+}
+.logotext {
+    width: 251px;
+    height: 32px;
+    margin-top: 21px;
+    margin-left: 4px;
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 24px;
+}
+.right_text {
+    margin-left: 820px;
+    margin-top: 24px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.adres {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    border-right: purple 1px solid;
+    padding-right: 35px;
+}
+.adres_1 {
+    font-family: "Open Sans";
+    font-size: 20px;
+}
+.adres_2 {
+    font-family: "Open Sans";
+    font-size: 20px;
+}
+.adres_3 {
+    font-family: "Open Sans";
+    font-size: 20px;
+}
+.contact {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+.contact_number {
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.contact_podpis {
+    font-family: "Open Sans";
+    font-size: 20px;
+}
+.header_podtext {
+
+}
+.header_podtext_rigthlist {
+    margin-top: 34px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 968px;
+
+}
+.header_podtext_list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+.header_podtext_list_item {
+    font-family: "Open Sans";
+    font-size: 20px;
+
+}
+.header_podtext_list_button {
+
+}
+.upmain_text {
+    margin-top: 72px;
+    height: 584px;
+    width: 1536px;
+}
+.upmain_text_list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+.upmain_text_list_left {
+    list-style: none;
+}
+.upmain_text_list_left_item {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: "Open Sans";
+}
+.upmain_text_list_left_poditem {
+    font-size: 24px;
+    font-family: "Open Sans";
+}
+.upmain_form_list {
+
+}
+.upmain_form {
+}
+.body{
+    background-color: #EEEEEE;
+    padding-left: 192px;
+    padding-right: 192px;
+}
+.two_text_center {
+    margin-top: 72px;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 42px;
+}
+.ayano_kiotaka {
+    margin-top: 72px;
+}
+.ayano_kiotaka_oba {
+    margin-top: 72px;
+    width: 1536px;
+    height: 452px;
+}
+.ayano_kiotaka_first {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+.one_image {
+    list-style: none;
+    width: 496px;
+    height: 184px;
+}
+.one_image_text {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: 700;
+}
+.one_image_podtext {
+    font-size: 22px;
+    font-family: "Open Sans";
+
+}
+.two_image {
+    list-style: none;
+    width: 496px;
+    height: 184px;
+}
+.two_image_text {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: 700;
+}
+.two_image_podtext {
+    font-size: 22px;
+    font-family: "Open Sans";
+
+}
+.three_image {
+    list-style: none;
+    width: 496px;
+    height: 184px;
+}
+.three_image_text {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: 700;
+}
+.three_image_podtext {
+    font-size: 22px;
+    font-family: "Open Sans";
+
+}
+.ayano_kiotaka_second {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+.four_image {
+    list-style: none;
+    width: 496px;
+    height: 184px;
+}
+.four_image_text {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: 700;
+}
+.four_image_podtext {
+    font-size: 22px;
+    font-family: "Open Sans";
+
+}
+.five_image {
+    list-style: none;
+    width: 496px;
+    height: 184px;
+}
+.five_image_text {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: 700;
+}
+.five_image_podtext {
+    font-size: 22px;
+    font-family: "Open Sans";
+
+}
+.six_image {
+    list-style: none;
+    width: 496px;
+    height: 184px;
+}
+.six_image_text {
+    font-family: "Open Sans";
+    font-size: 32px;
+    font-weight: 700;
+}
+.six_image_podtext {
+    font-size: 22px;
+    font-family: "Open Sans";
+}
+.garantee {
+}
+.garantee_quality {
+    font-size: 40px;
+    font-family: "Open Sans";
+    text-align: center;
+}
+.garantee_quality_podpis {
+    font-family: "Open Sans";
+    text-align: center;
+    font-size: 22px;
+    padding-left: 390px;
+    padding-right: 390px;
+}
